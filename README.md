@@ -357,6 +357,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Vaidas Mykolaitis http://www.codepreneur.io/
 - Varun Rajendra Rajamane http://rajamane.io
 - Victor Danger Lourng http://victorlourng.com
+- Vic Vu http://vicvu.com
 - Victor Zhou http://victorzhou.com
 - Vikas Parashar http://vikasparashar.in/
 - Vikram Tiwari https://vikramtiwari.github.com
